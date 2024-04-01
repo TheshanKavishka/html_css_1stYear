@@ -1,0 +1,32 @@
+/*---------------------------header--------------------------*/
+	.header{padding:10px;
+			font-size:100%;
+			Font-family: 'Dancing Script', cursive;
+			color:#6c736d;
+			}
+			
+	.header img{float:left;}
+
+/*----------------------------navigation---------------------*/	
+	.nav{overflow:hidden;
+		 background-color:#039c1f;
+		 }
+		 
+	.nav a{display:inline-block;
+		   text-decoration:none;
+		   color:white;
+		   padding:15px;}
+		   
+	.nav a:hover{background-color:#CCC;
+				 color:#014513;
+				 }
+
+/*----------------------------footer---------------------*/
+	.footer{color:white;
+			background-color:#039c1f;
+			opacity:0.8;
+			}
+	
+	.col{padding-left:500px;
+		}
+	
